@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Data.cs](./CS/ASPxGridVIew/Data.cs) (VB: [Data.vb](./VB/ASPxGridVIew/Data.vb))
+* [Default.aspx](./CS/ASPxGridVIew/Default.aspx) (VB: [Default.aspx](./VB/ASPxGridVIew/Default.aspx))
+* [Default.aspx.cs](./CS/ASPxGridVIew/Default.aspx.cs) (VB: [Default.aspx](./VB/ASPxGridVIew/Default.aspx))
+<!-- default file list end -->
 # ASPxGridView - How to alter image on mouse hover
 
 
