@@ -1,5 +1,4 @@
-﻿using DevExpress.Web.ASPxEditors;
-using DevExpress.Web.ASPxGridView;
+﻿using DevExpress.Web;
 using DevExpress.XtraCharts.Web;
 using System;
 using System.Collections.Generic;
